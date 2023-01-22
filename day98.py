@@ -22,4 +22,3 @@
 # segmented bar charts and see if you can turn data into insight.
 # Good luck!
 
-import kaleido
